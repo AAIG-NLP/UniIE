@@ -1,0 +1,6 @@
+transformers==4.18.0
+marisa-trie
+roformer>=0.4.3
+scikit-learn
+torchelastic
+tensorboard

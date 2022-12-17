@@ -1,0 +1,7 @@
+{"predicate": "父亲", "subject_type": "人物", "object_type": {"a1": "人物"}}
+{"predicate": "母亲", "subject_type": "人物", "object_type": {"a1": "人物"}}
+{"predicate": "国籍", "subject_type": "人物", "object_type": {"a1": "地理位置"}}
+{"predicate": "毕业院校", "subject_type": "人物", "object_type": {"a1": "组织机构"}}
+{"predicate": "妻子", "subject_type": "人物", "object_type": {"a1": "人物"}}
+{"predicate": "丈夫", "subject_type": "人物", "object_type": {"a1": "人物"}}
+{"predicate": "祖籍", "subject_type": "人物", "object_type": {"a1": "地理位置"}}

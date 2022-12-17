@@ -1,0 +1,65 @@
+{"event_type": "裁员", "role_list": [{"role": "裁员方"}, {"role": "裁员人数"}, {"role": "时间"}]}
+{"event_type": "起诉", "role_list": [{"role": "时间"}, {"role": "原告"}, {"role": "被告"}]}
+{"event_type": "解散", "role_list": [{"role": "解散方"}, {"role": "时间"}]}
+{"event_type": "加盟", "role_list": [{"role": "加盟者"}, {"role": "所加盟组织"}, {"role": "时间"}]}
+{"event_type": "拘捕", "role_list": [{"role": "被拘捕者"}, {"role": "拘捕者"}, {"role": "时间"}]}
+{"event_type": "罢工", "role_list": [{"role": "所属组织"}, {"role": "罢工人员"}, {"role": "时间"}, {"role": "罢工人数"}]}
+{"event_type": "辞/离职", "role_list": [{"role": "原所属组织"}, {"role": "离职者"}, {"role": "时间"}]}
+{"event_type": "上市", "role_list": [{"role": "上市企业"}, {"role": "地点"}, {"role": "时间"}, {"role": "融资金额"}]}
+{"event_type": "坍/垮塌", "role_list": [{"role": "坍塌主体"}, {"role": "死亡人数"}, {"role": "受伤人数"}, {"role": "时间"}]}
+{"event_type": "死亡", "role_list": [{"role": "地点"}, {"role": "时间"}, {"role": "死者"}, {"role": "死者年龄"}]}
+{"event_type": "失联", "role_list": [{"role": "地点"}, {"role": "时间"}, {"role": "失联者"}]}
+{"event_type": "感谢", "role_list": [{"role": "致谢人"}, {"role": "时间"}, {"role": "被感谢人"}]}
+{"event_type": "解约", "role_list": [{"role": "解约方"}, {"role": "被解约方"}, {"role": "时间"}]}
+{"event_type": "道歉", "role_list": [{"role": "道歉者"}, {"role": "道歉对象"}, {"role": "时间"}]}
+{"event_type": "召回", "role_list": [{"role": "召回方"}, {"role": "召回内容"}, {"role": "时间"}]}
+{"event_type": "起火", "role_list": [{"role": "时间"}, {"role": "地点"}, {"role": "死亡人数"}, {"role": "受伤人数"}]}
+{"event_type": "约谈", "role_list": [{"role": "约谈对象"}, {"role": "约谈发起方"}, {"role": "时间"}]}
+{"event_type": "举报", "role_list": [{"role": "举报发起方"}, {"role": "举报对象"}, {"role": "时间"}]}
+{"event_type": "罚款", "role_list": [{"role": "罚款对象"}, {"role": "罚款金额"}, {"role": "执法机构"}, {"role": "时间"}]}
+{"event_type": "车祸", "role_list": [{"role": "时间"}, {"role": "受伤人数"}, {"role": "地点"}, {"role": "死亡人数"}]}
+{"event_type": "点赞", "role_list": [{"role": "点赞方"}, {"role": "点赞对象"}, {"role": "时间"}]}
+{"event_type": "降息", "role_list": [{"role": "降息机构"}, {"role": "时间"}, {"role": "降息幅度"}]}
+{"event_type": "涨价", "role_list": [{"role": "涨价物"}, {"role": "时间"}, {"role": "涨价幅度"}, {"role": "涨价方"}]}
+{"event_type": "爆炸", "role_list": [{"role": "地点"}, {"role": "受伤人数"}, {"role": "时间"}, {"role": "死亡人数"}]}
+{"event_type": "降价", "role_list": [{"role": "降价物"}, {"role": "降价方"}, {"role": "时间"}, {"role": "降价幅度"}]}
+{"event_type": "发布", "role_list": [{"role": "发布方"}, {"role": "发布产品"}, {"role": "时间"}]}
+{"event_type": "会见", "role_list": [{"role": "时间"}, {"role": "会见主体"}, {"role": "会见对象"}, {"role": "地点"}]}
+{"event_type": "开幕", "role_list": [{"role": "活动名称"}, {"role": "时间"}, {"role": "地点"}]}
+{"event_type": "退役", "role_list": [{"role": "退役者"}, {"role": "时间"}]}
+{"event_type": "夺冠", "role_list": [{"role": "冠军"}, {"role": "夺冠赛事"}, {"role": "时间"}]}
+{"event_type": "结婚", "role_list": [{"role": "结婚双方"}, {"role": "时间"}]}
+{"event_type": "产子/女", "role_list": [{"role": "时间"}, {"role": "产子者"}, {"role": "出生者"}]}
+{"event_type": "下架", "role_list": [{"role": "下架方"}, {"role": "下架产品"}, {"role": "被下架方"}, {"role": "时间"}]}
+{"event_type": "怀孕", "role_list": [{"role": "时间"}, {"role": "怀孕者"}]}
+{"event_type": "获奖", "role_list": [{"role": "获奖人"}, {"role": "奖项"}, {"role": "时间"}, {"role": "颁奖机构"}]}
+{"event_type": "晋级", "role_list": [{"role": "晋级方"}, {"role": "晋级赛事"}, {"role": "时间"}]}
+{"event_type": "退出", "role_list": [{"role": "退出方"}, {"role": "原所属组织"}, {"role": "时间"}]}
+{"event_type": "出售/收购", "role_list": [{"role": "时间"}, {"role": "出售方"}, {"role": "收购方"}, {"role": "交易物"}, {"role": "出售价格"}]}
+{"event_type": "胜负", "role_list": [{"role": "胜者"}, {"role": "败者"}, {"role": "时间"}, {"role": "赛事名称"}]}
+{"event_type": "上映", "role_list": [{"role": "时间"}, {"role": "上映影视"}, {"role": "上映方"}]}
+{"event_type": "洪灾", "role_list": [{"role": "地点"}, {"role": "时间"}, {"role": "死亡人数"}, {"role": "受伤人数"}]}
+{"event_type": "探班", "role_list": [{"role": "探班主体"}, {"role": "探班对象"}, {"role": "时间"}]}
+{"event_type": "解雇", "role_list": [{"role": "时间"}, {"role": "解雇方"}, {"role": "被解雇人员"}]}
+{"event_type": "入狱", "role_list": [{"role": "入狱者"}, {"role": "刑期"}, {"role": "时间"}]}
+{"event_type": "停职", "role_list": [{"role": "停职人员"}, {"role": "所属组织"}, {"role": "时间"}]}
+{"event_type": "跌停", "role_list": [{"role": "时间"}, {"role": "跌停股票"}]}
+{"event_type": "立案", "role_list": [{"role": "立案机构"}, {"role": "立案对象"}, {"role": "时间"}]}
+{"event_type": "求婚", "role_list": [{"role": "求婚对象"}, {"role": "求婚者"}, {"role": "时间"}]}
+{"event_type": "退赛", "role_list": [{"role": "退赛方"}, {"role": "退赛赛事"}, {"role": "时间"}]}
+{"event_type": "离婚", "role_list": [{"role": "时间"}, {"role": "离婚双方"}]}
+{"event_type": "游行", "role_list": [{"role": "时间"}, {"role": "地点"}, {"role": "游行组织"}, {"role": "游行人数"}]}
+{"event_type": "加息", "role_list": [{"role": "加息机构"}, {"role": "加息幅度"}, {"role": "时间"}]}
+{"event_type": "坠机", "role_list": [{"role": "地点"}, {"role": "死亡人数"}, {"role": "时间"}, {"role": "受伤人数"}]}
+{"event_type": "地震", "role_list": [{"role": "震级"}, {"role": "时间"}, {"role": "震中"}, {"role": "震源深度"}, {"role": "死亡人数"}, {"role": "受伤人数"}]}
+{"event_type": "婚礼", "role_list": [{"role": "结婚双方"}, {"role": "时间"}, {"role": "参礼人员"}, {"role": "地点"}]}
+{"event_type": "分手", "role_list": [{"role": "分手双方"}, {"role": "时间"}]}
+{"event_type": "袭击", "role_list": [{"role": "袭击者"}, {"role": "袭击对象"}, {"role": "地点"}, {"role": "死亡人数"}, {"role": "时间"}, {"role": "受伤人数"}]}
+{"event_type": "融资", "role_list": [{"role": "融资方"}, {"role": "融资金额"}, {"role": "时间"}, {"role": "融资轮次"}, {"role": "领投方"}, {"role": "跟投方"}]}
+{"event_type": "订婚", "role_list": [{"role": "订婚主体"}, {"role": "时间"}]}
+{"event_type": "涨停", "role_list": [{"role": "涨停股票"}, {"role": "时间"}]}
+{"event_type": "禁赛", "role_list": [{"role": "被禁赛人员"}, {"role": "禁赛时长"}, {"role": "禁赛机构"}, {"role": "时间"}]}
+{"event_type": "开庭", "role_list": [{"role": "时间"}, {"role": "开庭案件"}, {"role": "开庭法院"}]}
+{"event_type": "出轨", "role_list": [{"role": "出轨方"}, {"role": "时间"}, {"role": "出轨对象"}]}
+{"event_type": "庆生", "role_list": [{"role": "生日方"}, {"role": "庆祝方"}, {"role": "时间"}, {"role": "生日方年龄"}]}
+{"event_type": "闭幕", "role_list": [{"role": "时间"}, {"role": "活动名称"}, {"role": "地点"}]}
