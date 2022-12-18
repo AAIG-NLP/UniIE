@@ -50,11 +50,11 @@
 - 启动命令: python run_predict.py --config_file config/config_uniie_sample.ini
 
 ## 七、任务微调模型
-- CCKS2022 通用信息抽取 数据集微调后的模型:
-*   **[`UniLM-CCKS`](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)**
-    
-- Title2event 数据集微调后的模型:
-*   **[`UniLM-title2event`](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)**
+
+| model | path | passcode | 
+| -------- | -------- | -------- |
+| CCKS2022微调模型(base、large)|https://pan.baidu.com/s/1E5_eZ03Ddzs7GPWAnH6q-Q?pwd=2u2p |2u2p|
+| [`title2event`](http://arxiv.org/abs/2211.00869)微调模型(base、large)|https://pan.baidu.com/s/13A3-PQxe4tLzDt1qRZlYgA?pwd=e67l |e67l|
     
 注:
 1. 模型保存时没有去掉分布式训练的.module，如果需要直接在模型初始化加载，需要手动去掉.module后再重新加载
@@ -75,6 +75,8 @@
 - schema类型负采样时，如果存在多个相同的关系不同类型的subejct和object，最好将关系类型加入数字等进行区分，保持训练等一致，否则，解码阶段需要一些特殊处理
 - 全部任务仅使用一个模型训练推理，推理阶段需要遍历各个数据集的schema类型，速度较慢，可以使用其他抽取、schema分类模型提供schema类型，降低推理成本
 - 全部数据集(抽取+实体) 2080Ti large版本 需要20小时左右
+- 少样本数据集 可以尝试数据duplicate, ccks22比赛以及[`通用电力抽取比赛`](https://aistudio.baidu.com/aistudio/competition/detail/425/0/introduction)均dup=20
+
 
 ### 2、Title2Event 数据集
 | model | metric | precision | recall| f1|params|
